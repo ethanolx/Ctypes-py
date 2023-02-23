@@ -1,0 +1,9 @@
+# Virtual Environment
+.venv
+
+# Compiled Bytecode
+__pycache__
+
+# Build Artifacts
+*.dll
+*.pyd
